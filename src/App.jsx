@@ -17,9 +17,9 @@ function App() {
         <header>
           <img src={logo} alt="logo" className='logo1' />
           <div className='buttons'>
-            <a href='#' className='icon' ><FontAwesomeIcon size={'xl'}  className='icon' icon={faTwitter}></FontAwesomeIcon></a>
+            <a href='https://x.com/billytokensol' className='icon' ><FontAwesomeIcon size={'xl'}  className='icon' icon={faTwitter}></FontAwesomeIcon></a>
             <a href='#' className='btn'>Buy on Pump.fun</a>
-            <a href='#' className='icon'><FontAwesomeIcon size={'xl'}  className='icon' icon={faTelegram}></FontAwesomeIcon></a>
+            <a href='https://t.me/billybitchhouse' className='icon'><FontAwesomeIcon size={'xl'}  className='icon' icon={faTelegram}></FontAwesomeIcon></a>
           </div>
         </header>
         <div className='side-by-side'>
@@ -50,8 +50,8 @@ function App() {
         <div>
           <footer>
             <div className='buttons'>
-              <a href='#' className='icon' ><FontAwesomeIcon size={'xl'} icon={faTwitter}></FontAwesomeIcon></a>
-              <a href='#' className='icon'><FontAwesomeIcon size={'xl'} icon={faTelegram}></FontAwesomeIcon></a>
+              <a href='https://x.com/billytokensol' className='icon' ><FontAwesomeIcon size={'xl'} icon={faTwitter}></FontAwesomeIcon></a>
+              <a href='https://t.me/billybitchhouse' className='icon'><FontAwesomeIcon size={'xl'} icon={faTelegram}></FontAwesomeIcon></a>
             </div>
           </footer>
         </div>
