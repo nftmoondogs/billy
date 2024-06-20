@@ -18,7 +18,7 @@ function App() {
           <img src={logo} alt="logo" className='logo1' />
           <div className='buttons'>
             <a href='https://x.com/billytokensol' className='icon' ><FontAwesomeIcon size={'xl'}  className='icon' icon={faTwitter}></FontAwesomeIcon></a>
-            <a href='https://pump.fun/2PEKFGDdZzxPAGyuticaywA3M7N2875jJkxw3RT7pump' className='btn'>Buy on Pump.fun</a>
+            <a href='https://pump.fun/' className='btn'>Buy on Pump.fun</a>
             <a href='https://t.me/billybitchhouse' className='icon'><FontAwesomeIcon size={'xl'}  className='icon' icon={faTelegram}></FontAwesomeIcon></a>
           </div>
         </header>
